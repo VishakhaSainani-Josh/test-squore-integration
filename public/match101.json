@@ -1,0 +1,39 @@
+{
+  "id": "101",
+  "players": {
+    "A": "Dish",
+    "B": "Mad"
+  },
+  "court": "ABSC - C4",
+  "event": {
+    "name": "Yadupati Singhania Memorial Squash Tournament",
+    "division": "BU15",
+    "location": "Prayagraj, India"
+  },
+  "result": "3-1",
+  "gamescores": "11-4, 9-11, 11-6, 11-8",
+  "server": "A",
+  "serveSide": "R",
+  "isHandOut": false,
+  "isGameBall": false,
+  "isMatchBall": true,
+  "format": {
+    "numberOfPointsToWinGame": 11,
+    "numberOfGamesToWinMatch": 3,
+    "handicapFormat": "SameForAllGames"
+  },
+  "timing": [
+    {
+      "start": "2025-10-28T12:30:00+05:30",
+      "end": "2025-10-28T13:10:00+05:30",
+      "offsets": [0, 25, 55, 95, 120, 145, 165, 195]
+    }
+  ],
+  "appName": "Squore",
+  "appPackage": "com.doubleyellow.scoreboard",
+  "metadata": {
+    "source": "https://yourdomain.vercel.app/league1.json",
+    "version": 1,
+    "language": "en"
+  }
+}

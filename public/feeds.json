@@ -1,0 +1,13 @@
+[
+  {
+    "Section": "SRFI 2025 Season",
+    "Name": "Men’s Division A",
+    "Club": {
+      "name": "Chennai Squash Club",
+      "logo": "https://yourdomain.vercel.app/chennai-logo.png"
+    },
+    "FeedMatches": "https://yourdomain.vercel.app/league1.json",
+    "ValidFrom": "20250101",
+    "ValidTo": "20251231"
+  }
+]

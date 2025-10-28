@@ -1,0 +1,30 @@
+{
+  "config": {
+    "name": "SRFI Men’s Division A",
+    "clubName": "Chennai Squash Club",
+    "clubLogo": "https://yourdomain.vercel.app/chennai-logo.png",
+    "numberOfGamesToWinMatch": 3,
+    "numberOfPointsToWinGame": 11,
+    "PostResult": "https://yourdomain.vercel.app/api/matchresult"
+  },
+  "matches": [
+    {
+      "A": "Dish",
+      "B": "Mad",
+      "id": "101",
+      "date": "2025-10-28",
+      "time": "12:30",
+      "court": "C4",
+      "event": "Yadupati Singhania Memorial Squash Tournament"
+    },
+    {
+      "A": "Ravi",
+      "B": "Arjun",
+      "id": "102",
+      "date": "2025-10-29",
+      "time": "10:00",
+      "court": "C2",
+      "event": "Chennai Open 2025"
+    }
+  ]
+}
